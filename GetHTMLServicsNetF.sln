@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetHTMLServicsNetF", "GetHTMLServicsNetF\GetHTMLServicsNetF.csproj", "{0C25FE63-756D-48A7-B2E7-65A9BAB7F05E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetHTMLService", "GetHTMLService\GetHTMLService.csproj", "{5AC79227-1294-4FAB-A224-69A8E4D43637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C25FE63-756D-48A7-B2E7-65A9BAB7F05E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C25FE63-756D-48A7-B2E7-65A9BAB7F05E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C25FE63-756D-48A7-B2E7-65A9BAB7F05E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C25FE63-756D-48A7-B2E7-65A9BAB7F05E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC79227-1294-4FAB-A224-69A8E4D43637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC79227-1294-4FAB-A224-69A8E4D43637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC79227-1294-4FAB-A224-69A8E4D43637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC79227-1294-4FAB-A224-69A8E4D43637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {049CB970-255F-449E-8DDF-A1BC2DBBDE72}
+	EndGlobalSection
+EndGlobal
